@@ -13,7 +13,11 @@ function Footer() {
   return (
     <div className="footer">
       <div className="footer_left">
-        <img className="footer_albumLogo" src="" alt="" />
+        <img
+          className="footer_albumLogo"
+          src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Usher_-_Confessions_album_cover.png/220px-Usher_-_Confessions_album_cover.png"
+          alt=""
+        />
         <div className="footer_songInfo">
           <h4>Yeah!</h4>
           <p>Usher</p>
